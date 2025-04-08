@@ -1,0 +1,37 @@
+archspec @ file:///croot/archspec_1709217642129/work
+boltons @ file:///croot/boltons_1737061692168/work
+Brotli @ file:///croot/brotli-split_1736182456865/work
+certifi @ file:///croot/certifi_1738623731865/work/certifi
+cffi @ file:///croot/cffi_1736182485317/work
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+conda @ file:///croot/conda_1743715288469/work/conda-src
+conda-libmamba-solver @ file:///croot/conda-libmamba-solver_1742218810516/work/src
+conda-package-handling @ file:///croot/conda-package-handling_1731369017509/work
+conda_package_streaming @ file:///croot/conda-package-streaming_1731366181659/work
+distro @ file:///work/perseverance-python-buildout/croot/distro_1728396110052/work
+frozendict @ file:///work/perseverance-python-buildout/croot/frozendict_1728497542215/work
+idna @ file:///work/perseverance-python-buildout/croot/idna_1728385935861/work
+jsonpatch @ file:///work/perseverance-python-buildout/croot/jsonpatch_1728399595941/work
+jsonpointer==2.1
+libmambapy @ file:///croot/mamba-split_1734469461757/work/libmambapy
+menuinst @ file:///croot/menuinst_1738943416351/work
+numpy==2.2.4
+packaging @ file:///croot/packaging_1734472117206/work
+pandas==2.2.3
+platformdirs @ file:///work/perseverance-python-buildout/croot/platformdirs_1728384968048/work
+pluggy @ file:///croot/pluggy_1733169602837/work
+pycosat @ file:///croot/pycosat_1736868416091/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+PySocks @ file:///work/perseverance-python-buildout/croot/pysocks_1728386193338/work
+python-dateutil==2.9.0.post0
+pytz==2025.2
+requests @ file:///croot/requests_1730999120400/work
+ruamel.yaml @ file:///work/perseverance-python-buildout/croot/ruamel.yaml_1728397638193/work
+setuptools==75.8.0
+six==1.17.0
+tqdm @ file:///croot/tqdm_1738943501192/work
+truststore @ file:///croot/truststore_1736550121485/work
+tzdata==2025.2
+urllib3 @ file:///croot/urllib3_1737133630106/work
+wheel==0.45.1
+zstandard @ file:///croot/zstandard_1731356346222/work
